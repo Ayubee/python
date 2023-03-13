@@ -38,3 +38,30 @@ s = f.lower()
 #      elif s == True:
 #         else:
 #             print("yep")
+
+a = "Salom mani dostlarim"
+low = a.lower()
+# print(low)
+
+# def test(low):
+#     if low == True:
+#         print('true')
+#     else:
+#         print('flase')
+
+# test()
+
+a = "LOoOL"
+b = a.isupper()
+
+if b == True:
+    print("satr xammasi kotta harf bn yozilgan")
+else:
+    print('satrda kichik harf bor')
+
+# print(b)
+
+# txt = "NIMA SABAB"
+# isu = txt.isupper()
+# print(isu)
+
